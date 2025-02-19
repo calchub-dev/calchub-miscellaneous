@@ -1,4 +1,4 @@
-### **16️⃣ Miscellaneous Calculators**
+### **1️⃣6️⃣ Miscellaneous Calculators**
 
 A collection of various useful calculators that don't fit into other categories.
 
